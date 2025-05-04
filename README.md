@@ -66,7 +66,3 @@ python main.py
 
 - Python 3.8+
 - OpenDSS instalado (e no PATH do sistema)
-
-## 📬 Contato
-
-Projeto acadêmico — dúvidas ou contribuições, fique à vontade para abrir uma issue.
