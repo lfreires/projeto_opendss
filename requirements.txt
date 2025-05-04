@@ -1,0 +1,4 @@
+pandas
+openpyxl
+matplotlib
+py_dss_interface
