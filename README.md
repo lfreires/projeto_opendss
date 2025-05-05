@@ -1,8 +1,8 @@
-# 🧠 Simulador de Sistemas Elétricos com OpenDSS e Python
+# Simulador de Sistemas Elétricos com OpenDSS e Python
 
 Este projeto realiza a leitura de dados elétricos de uma planilha Excel, gera o código `.dss` para o OpenDSS, executa a simulação e plota os resultados — salvando tudo de volta no Excel com gráficos.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Leitura de transformadores, linhas, cargas e bases de tensão a partir de Excel.
 - Geração automática do código `.dss`.
@@ -11,7 +11,7 @@ Este projeto realiza a leitura de dados elétricos de uma planilha Excel, gera o
 - Geração de gráfico de linha (tensões pu por barra).
 - Escrita dos resultados + gráfico no Excel.
 
-## 🗂 Estrutura de Pastas
+## Estrutura de Pastas
 
 ```
 meu_projeto_opendss/
@@ -35,7 +35,7 @@ meu_projeto_opendss/
 │   └── base_tensao.py
 ```
 
-## 📦 Instalação
+## Instalação
 
 1. Crie um ambiente virtual (opcional, mas recomendado):
 
